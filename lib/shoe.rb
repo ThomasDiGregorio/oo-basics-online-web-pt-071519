@@ -7,7 +7,7 @@ class Shoe
   end
   
   def cobble
-    @cobble = cobble
+    #@cobble = cobble
     puts "Says the shoe has been repaired...makes the shoe's condition new"
   end
 
